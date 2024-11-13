@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@0;1&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+.fontStyle {
+    font-family: "Rubik", sans-serif;
+    user-select: none;
+}
+
+.scrollBar {
+    scrollbar-width: none;
+}
